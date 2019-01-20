@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -37,7 +35,7 @@
                 <a
                 href="Hand_Cannoneer.php">火槍兵</a>、<a href="Bombard_Cannon.php">火炮</a>與 <a href="">火炮塔</a>這種高威力火藥兵種。。
                   <a
-                  href="Siege Engineers.php">攻城工程師</a>可讓攻城武器射程+1在後期也很有效用；而其他如<a href="Murder Holes.php">垛孔</a>、<a href="Fortified Wall.php">垛牆</a>則不符合當前戰術所以不常研發。</p>
+                  href="Siege Engineers.php">攻城工程師</a>可讓攻城武器射程+1在後期也很有效用；而其他如<a href="Murder_Holes.php">垛孔</a>、<a href="Fortified_Wall.php">垛牆</a>則不符合當前戰術所以不常研發。</p>
             <h3>可訓練的單位與技術</h3>
             <div class="hrn1"></div>
             <div class="row">
@@ -49,22 +47,22 @@
                       <img class="gg" src="img/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Fortified-wall-research.jpg" alt=""><a href="Fortified Wall.php">垛牆</a>
+                      <img class="gg" src="img/Fortified-wall-research.jpg" alt=""><a href="Fortified_Wall.php">垛牆</a>
                     </li>
                     <li>
                       <img class="gg" src="img/Ballistics.jpg" alt=""><a href="Ballistics.php">彈道學</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Guard-tower-research.jpg" alt=""><a href="Guard Tower.php">防禦箭塔</a>
+                      <img class="gg" src="img/Guard-tower-research.jpg" alt=""><a href="Guard_Tower.php">防禦箭塔</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Heatedshot.png" alt=""><a href="Heated Shot.php">預熱射擊</a>
+                      <img class="gg" src="img/Heatedshot.png" alt=""><a href="Heated_Shot.php">預熱射擊</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Murderholes.jpg" alt=""><a href="Murder Holes.php">垛孔</a>
+                      <img class="gg" src="img/Murderholes.jpg" alt=""><a href="Murder_Holes.php">垛孔</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Treadmillcrane.jpg" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>
+                      <img class="gg" src="img/Treadmillcrane.jpg" alt=""><a href="Treadmill_Crane.php">滑輪起重機</a>
                     </li>
                   </ul>
                 </div>
@@ -296,8 +294,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="Armor_class_building.php">建築</a>
+                <br> <a href="Armor_class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -316,5 +314,4 @@
     <?php include( "allbuilding.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

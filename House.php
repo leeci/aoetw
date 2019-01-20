@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -21,12 +19,10 @@
       <!-- Example row of columns -->
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
-             <h1>房屋</h1>
-
+          <h1>房屋</h1>
           <div class="hrn1"></div>
-        </div>
-        <div class="col-md-8">
-         <div class="n1">
+          <div class="col-md-8">
+            <div class="n1">
               <p>房屋是遊戲內最重要的建築之一。它提供5的居住人口讓玩家訓練村民和軍隊使用，不過被摧毀時玩家也會失去5的人口上限(<a href="Mongols.php">蒙古</a>研發
                 <a
                 href="Nomads.php">游牧</a>後房屋毀壞人口上限也不會掉)。</p>
@@ -136,7 +132,7 @@
                 <li>房屋花費30木材。</li>
                 <li>房屋的生命值在每個時代都是900HP。</li>
               </ul>
-                <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
+              	<h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
               <ul>
                 <li>引入<a href="Heresy.php">異端邪說</a>。</li>
               </ul>
@@ -147,63 +143,8 @@
                 <li><a href="Mongols.php">蒙古</a>：<a href="Nomads.php">游牧</a>研發後房屋被毀壞人口容納量也不會下降。</li>
               </ul>
             </div>
-   
-            <h3>圖庫</h3>
-            <div class="hrn1"></div>
-
- <div class="col-md-4"> <a href="img/HouseDarkAge.png"><img class="imgn" class="hg" width="180" src="img/HouseDarkAge.png" alt=""></a> 
-                <div class="lightbox-caption" style="width:220px" ;>
-                  <p><em>所有黑暗時代的房屋。</em>
-                  </p>
-              </div>
-            </div>
-
-
-            <div class="col-md-4"> <a href="img/HouseFedualAgeHD.png"><img class="imgn" class="hg" width="200" src="img/HouseFedualAgeHD.png" alt=""></a> 
-              <div class="lightbox-caption" style="width:220px" ;>
-                <p><em>所有封建時代的房屋(帝王世紀和征服者入侵資料片)。</em>
-                </p>
-            </div>
           </div>
-
-
-          <div class="col-md-4"> <a href="img/HouseFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/HouseFeudalAgeDLC.png" alt=""></a> 
-            <div class="lightbox-caption" style="width:185px" ;>
-              <p><em>所有封建時代的房屋(HD擴充資料片)。</em>
-              </p>
-          </div> 
-        </div>
-
-            
-        <div class="col-md-4"> <a href="img/Houseaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Houseaokaoc.png" alt=""></a> 
-          <div class="lightbox-caption" style="width:185px" ;>
-            <p><em>所有城堡時代的房屋(帝王世紀和征服者入侵資料片)。</em>
-            </p>
-        </div>
-      </div>
-
-      <div class="col-md-4"> <a href="img/Househd.png"><img class="imgn" class="hg" width="200" src="img/Househd.png" alt=""></a> 
-        <div class="lightbox-caption" style="width:220px" ;>
-          <p><em>所有城堡時代的房屋(HD擴充資料片)。</em>
-          </p>
-      </div>
-    </div>
-
-    <div class="col-md-4"> <a href="img/Spritesheet_house.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_house.png" alt=""></a> 
-      <div
-      class="lightbox-caption" style="width:185px" ;>
-        <p><em>所有遊戲中的房屋類型。</em>
-        </p>
-  
- </div>
-
-       
-
- 
-
-          </div>
-        </div>
-      <div class="col-md-4">
+          <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
@@ -300,8 +241,8 @@
               </tr>
               <tr>
                 <td class="unit3">護甲分類</td>
-                <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-                  <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <td class="unit4"><a href="Armor_class_building.php">建築</a>
+                  <br> <a href="Armor_class_standard_building.php">標準建築</a>
                 </td>
               </tr>
               <tr>
@@ -309,13 +250,65 @@
                 <td class="unit4">2</td>
               </tr>
             </table>
-            <div class="thanks">感謝! 此頁面由賜齡協助編輯</div></div>
+            <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
+          </div>
+          <div class="col-md-12">
+            <h3>圖庫</h3>
+            <div class="hrn1"></div>
+            <div class="n1">
+              <div class="col-md-4"> <a href="img/HouseDarkAge.png"><img class="imgn" class="hg" width="180" src="img/HouseDarkAge.png" alt=""></a> 
+                <div
+                class="lightbox-caption" style="width:220px" ;>
+                  <p><em>所有黑暗時代的房屋。</em>
+                  </p>
+              </div>
+            </div>
+            <div class="col-md-4"> <a href="img/HouseFedualAgeHD.png"><img class="imgn" class="hg" width="200" src="img/HouseFedualAgeHD.png" alt=""></a> 
+              <div
+              class="lightbox-caption" style="width:220px" ;>
+                <p><em>所有封建時代的房屋(帝王世紀和征服者入侵資料片)。</em>
+                </p>
+            </div>
+          </div>
+          <div class="col-md-4"> <a href="img/HouseFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/HouseFeudalAgeDLC.png" alt=""></a> 
+            <div
+            class="lightbox-caption" style="width:185px" ;>
+              <p><em>所有封建時代的房屋(HD擴充資料片)。</em>
+              </p>
           </div>
         </div>
-     
-        <!-- /container -->
-     <?php include( "allbuilding.php"); ?>
-        <?php include( "footn.php"); ?>
+      </div>
+      <div class="col-md-12">
+        <div class="col-md-4"> <a href="img/Houseaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Houseaokaoc.png" alt=""></a> 
+          <div
+          class="lightbox-caption" style="width:185px" ;>
+            <p><em>所有城堡時代的房屋(帝王世紀和征服者入侵資料片)。</em>
+            </p>
+        </div>
+      </div>
+      <div class="col-md-4"> <a href="img/Househd.png"><img class="imgn" class="hg" width="200" src="img/Househd.png" alt=""></a> 
+        <div
+        class="lightbox-caption" style="width:220px" ;>
+          <p><em>所有城堡時代的房屋(HD擴充資料片)。</em>
+          </p>
+      </div>
+    </div>
+    <div class="col-md-4"> <a href="img/Spritesheet_house.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_house.png" alt=""></a> 
+      <div
+      class="lightbox-caption" style="width:185px" ;>
+        <p><em>所有遊戲中的房屋類型。</em>
+        </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12"></div>
+    </div>
+    <!-- /container -->
+    <?php include( "allbuilding.php"); ?>
+    <?php include( "footn.php"); ?>
   </body>
-
 </html>

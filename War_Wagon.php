@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -104,7 +102,7 @@
               <tr>
                 <td class="tta1" style="width:10%">開火速度</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+11%)</td>
+                  <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+11%)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">命中率</td>
@@ -325,8 +323,8 @@
             <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高馬戰車的生產速度還有加速
               <a
               href="Conscription.php">徵兵制度</a>的研究時間(快25%)</li>
-            <li><a href="Teutons.php">不列顛</a>：研究<a href="Thumb _Ring.php">拇指環</a>速度快20%。</li>
-            <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php.php">畜牧培育</a>速度快20%。</li>
+            <li><a href="Teutons.php">不列顛</a>：研究<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
+            <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php">畜牧培育</a>速度快20%。</li>
             <li><a href="Teutons.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>速度快80%。</li>
             <li><a href="Teutons.php">條頓</a>：馬戰車更不容易被招降。</li>
           </ul>
@@ -520,5 +518,4 @@
       <?php include( "allunit.php"); ?>
       <?php include( "footn.php"); ?>
   </body>
-
 </html>

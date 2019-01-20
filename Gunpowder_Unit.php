@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -299,11 +297,11 @@
                 <td class="tta1">
                   <img class="gg" src="img/OrganGunIcon.jpg"><a href="Organ_Gun.php">精銳風琴炮</a>
                 </td>
-                <td class="tta3">70</td>
+                <td class="tta3">60</td>
                 <!--生命值!-->
-                <td class="tta3">20</td>
+                <td class="tta3">16</td>
                 <!--攻擊!-->
-                <td class="tta3">2/6</td>
+                <td class="tta3">2/4</td>
                 <!--防禦!-->
                 <td class="tta3">7</td>
                 <!--射程!-->
@@ -340,5 +338,4 @@
       <?php include( "allunit2.php"); ?>
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

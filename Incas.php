@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -49,9 +47,9 @@
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png">安地斯彈弓:取消矛兵和投石手的最小射程。</li>
+                <img class="gg" src="img/CastleAgeUnique.png">安地斯彈弓術</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg">信使:槍隊長、投石手和鷹勇士的護甲+1/+2。</li>
+                <img class="gg" src="img/Unique-tech.jpg">信使</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -126,8 +124,8 @@
             </tr>
             <tr>
               <td class="unit3">特殊單位</td>
-              <td class="unit4"><img src="img/Kamayukicon.png" class="gg" alt="">槍隊長
-                <br><img src="img/Slingericon.png" class="gg" alt="">投石手</td>
+              <td class="unit4">槍隊長
+                <BR>投石手</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -136,7 +134,7 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">安地斯彈弓
+                <img class="gg" src="img/CastleAgeUnique.png">安地斯彈弓術
                 <br>
                 <img class="gg" src="img/Unique-tech.jpg">信使</td>
             </tr>
@@ -148,5 +146,4 @@
       <?php include( "allciv.php"); ?>
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

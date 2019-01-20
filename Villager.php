@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -116,7 +114,6 @@
               <td class="ttb2">食物</td>
               <td class="ttb3">0.388</td>
             </tr>
-			
 			<tr>
               <td class="ttb1">斯拉夫農民</td>
               <td class="ttb2">食物</td>
@@ -137,7 +134,6 @@
               <td class="tta2">食物</td>
               <td class="tta3">0.310</td>
             </tr>
-			
           </table>
           <p>請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發科技
             <a
@@ -284,7 +280,7 @@
                 <li>速度</li>
               </p>
               <p>對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論建築類型，升級或原始生命值如何，這都是一樣的。
-                <li><a href="Treadmill Crane.php">滑輪起重機</a>
+                <li><a href="Treadmill_Crane.php">滑輪起重機</a>
                 </li>不影響修理速度。
                 <p>在大多數情況下，新建築的建築速度要快於修復工程，儘管成本較高（例如更換損壞的牆體部分），但建造新建築的速度可能會更快。
                   <p>攻城武器和船艦的修理速度是建築物速度的25％，所以第一個村民是187.5 HP /分鐘，任何額外的村民將加上93.75 HP /分鐘。</p>
@@ -301,7 +297,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">大多數<a href="bulding.php">建築物</a>，<a href="Skirmisher.php">矛兵</a>，<a href="Battering_Ram.php">衝撞車</a>系，
+              <td class="tta4">大多數<a href="Armor_class_building.php">建築物</a>，<a href="Skirmisher.php">矛兵</a>，<a href="Battering_Ram.php">衝撞車</a>系，
                 <a
                 href="Spearman.php">長槍兵</a>，<a href="Trebuchet.php">投石機</a>。</td>
             </tr>
@@ -343,7 +339,7 @@
                   <img class="gg" src="img/Stone_Shaft_Mining.jpg" width="30" alt=""><a href="Stone_Shaft_Mining.php">礦井採石</a>(+15%)</p>
                 <li>黃金:</li>
                 <p>
-                  <img class="gg" src="img/Goldmining.jpg" width="30" alt=""><a href="Gold Mining.php">採金技術</a>(+15%)</p>
+                  <img class="gg" src="img/Goldmining.jpg" width="30" alt=""><a href="Gold_Mining.php">採金技術</a>(+15%)</p>
                 <p>
                   <img class="gg" src="img/Goldshaftmining.jpg" width="30" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>(+15%)</p>
                 <p>
@@ -380,11 +376,11 @@
                 <p>
                   <img class="gg" src="img/Loom.jpg" width="30" alt=""><a href="Loom.php">織布技術</a>(+1/+2)</p>
                 <p>
-                  <img class="gg" src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2，<a href="Incas.php">印加</a>限定)</p>
                 <p>
                   <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+2/+2，<a href="Spanish.php">西班牙</a>限定)</p>
               </td>
@@ -412,7 +408,7 @@
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>(建築速度加快30%)</td>
+                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">滑輪起重機</a>(建築速度加快30%)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -607,5 +603,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

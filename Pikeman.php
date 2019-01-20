@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -83,11 +81,11 @@
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
+                <img class="gg" src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
+                <img class="gg" src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)</td>
+                <img class="gg" src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
@@ -507,5 +505,4 @@
       <?php include( "allunit.php"); ?>
       <?php include( "footn.php"); ?>
   </body>
-
 </html>

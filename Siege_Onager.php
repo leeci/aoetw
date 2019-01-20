@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -26,7 +24,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><a href="Siege Onager.php">重型投石車</a>要升級到帝王時期，花費1450食物和1000金，且需要耗時150秒才能研發完成，只有少數的幾個文明才擁有。</p>
+            <p><a href="Siege_Onager.php">重型投石車</a>要升級到帝王時期，花費1450食物和1000金，且需要耗時150秒才能研發完成，只有少數的幾個文明才擁有。</p>
           </div>
            <h3>文明可訓練與否</h3> 
           <div class="hrn1"></div>
@@ -61,17 +59,17 @@
            <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p><a href="Siege Onager.php">重型投石車</a>是一個非常難纏的軍事單位，面對大量的<a href="Siege Onager.php">重型投石車</a>，沒有大量的高機動性兼具高血量的軍事單位協助幾乎不太可能去拆除，當
+            <p><a href="Siege_Onager.php">重型投石車</a>是一個非常難纏的軍事單位，面對大量的<a href="Siege_Onager.php">重型投石車</a>，沒有大量的高機動性兼具高血量的軍事單位協助幾乎不太可能去拆除，當
               <a
-              href="Siege Onager.php">重型投石車</a>海起來，一般的軍事單位是無法靠近的。當然火砲絕對是投石車的天敵。</p>
-            <p>在<a href="Imperial_Age.php">帝王時代</a>中期，<a href="Siege Onager.php">重型投石車</a>的殺傷力將會是所有弓兵系單位的惡夢，雖然
+              href="Siege_Onager.php">重型投石車</a>海起來，一般的軍事單位是無法靠近的。當然火砲絕對是投石車的天敵。</p>
+            <p>在<a href="Imperial_Age.php">帝王時代</a>中期，<a href="Siege_Onager.php">重型投石車</a>的殺傷力將會是所有弓兵系單位的惡夢，雖然
               <a
               href="Mangudai.php">蒙古突騎</a>與<a href=" ">衝撞車</a>對於<a href="Siege_Workshop.php">攻城器製造所</a>單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。。</p>
-            <p>對付成群的<a href="Siege Onager.php">重型投石車</a>，移動快速的<a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>或者大量的
+            <p>對付成群的<a href="Siege_Onager.php">重型投石車</a>，移動快速的<a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>或者大量的
               <a
-              href="Paladin.php">遊俠</a>會是個不錯的選擇，也有不少玩家會選擇用<a href="Siege Onager.php">重型投石車</a>與<a href="Siege Onager.php">重型投石車</a>對丟，運氣好可能會一臺換對方2~3臺，駐軍滿載的衝撞車也是一種破解的方法，若敵方已經將
+              href="Paladin.php">遊俠</a>會是個不錯的選擇，也有不少玩家會選擇用<a href="Siege_Onager.php">重型投石車</a>與<a href="Siege_Onager.php">重型投石車</a>對丟，運氣好可能會一臺換對方2~3臺，駐軍滿載的衝撞車也是一種破解的方法，若敵方已經將
                 <a
-                href="Siege Onager.php">重型投石車</a>累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的<a href="Siege Onager.php">重型投石車</a>，通常是討不到便宜的。</p>
+                href="Siege_Onager.php">重型投石車</a>累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的<a href="Siege_Onager.php">重型投石車</a>，通常是討不到便宜的。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -84,7 +82,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、群聚的單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、群聚的單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -107,11 +105,11 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。
                 <br>
                 <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion_Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
@@ -378,7 +376,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+60 vs <a href="Armor_Class_Building.php">建築物</a>
+              <td class="unit4">+60 vs <a href="Armor_class_building.php">建築物</a>
                 <br>+12 vs <a href="Armor_Class_Siege_Weapon.php">攻城武器</a> 
               </td>
             </tr>
@@ -461,5 +459,4 @@
       <?php include( "allunit.php"); ?>
       <?php include( "footn.php"); ?>
   </body>
-
 </html>

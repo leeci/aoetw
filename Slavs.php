@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,7 +14,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -55,7 +53,7 @@
           <div class="n1">
             <ul>
               <li>農民工作效率提升15%</li>
-              <li><a href="Tracking.php"></a>追蹤技術免費</li>
+              <li>追蹤技術免費</li>
               <li>攻城器製造所單位便宜15%</li>
               <li><strong>團隊加分</strong>:軍事建築提供+5人口</li>
             </ul>
@@ -155,5 +153,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

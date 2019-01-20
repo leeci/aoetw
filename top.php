@@ -129,8 +129,8 @@
     <a href="https://www.douyu.com/753676"><img src="img/douyu.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/Yo.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/cn.png" alt="">中國　<img src="img/SY.jpg" alt="">SY
-</td></tr><tr><td style="text-align:center">單挑2630　團戰2286　1992年次
-</td></tr><tr><td>唯一在單挑團戰最高積分榜皆居前四名的玩家，實力亦然。擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
+</td></tr><tr><td style="text-align:center">單挑2669　團戰2286　1992年次
+</td></tr><tr><td>唯一在單挑團戰最高積分榜皆居前三名的玩家，實力亦然。擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
 </td></tr><tr><td>WSVG亞軍、阿拉伯邀請賽冠軍、BoA四強、王者之師冠軍、NC兩冠
 </td></tr></table></div>
 
@@ -151,7 +151,7 @@
 </td></tr><tr><td style="text-align:center"><img src="img/DauT.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/rs.png" alt="">賽爾維亞　
     <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"><img src="img/secret.jpg" alt="">Secret</a>
-</td></tr><tr><td style="text-align:center">單挑2615　1986年次
+</td></tr><tr><td style="text-align:center">單挑2638　1986年次
 </td></tr><tr><td>Viper 前的世界王者，2003以來獲獎無數。擅長在壓力下爆經濟，對新文明的優勢如何發揮判斷精準，開發了許多 WK 新戰術。
 </td></tr><tr><td>2003~2010年間26個大型賽事中拿下12冠8亞、AreD18冠軍、BoA冠軍、4v4五冠
 </td></tr></table></div>
@@ -198,7 +198,7 @@
     <a href="https://www.twitch.tv/mblaoc"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/MbL.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/no.png" alt="">挪威　<img src="img/aM.jpg" alt="">aM
-</td></tr><tr><td style="text-align:center">單挑2633　團戰2236　1994年次
+</td></tr><tr><td style="text-align:center">單挑2721　團戰2236　1994年次
 </td></tr><tr><td>前期弄人（偷動物、卡村民、圍資源等）的技術無人可比，單挑強於團戰。曾來過臺灣。
 </td></tr><tr><td>EGM3亞軍、MoA3季軍、AD17冠軍、BoA亞軍、ND18季軍
 </td></tr></table></div>
@@ -218,7 +218,7 @@
     <a href="https://www.twitch.tv/hera_aoc"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/no.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/ca.png" alt="">加拿大　<img src="img/aM.jpg" alt="">aM
-</td></tr><tr><td style="text-align:center">單挑2551　1999年次
+</td></tr><tr><td style="text-align:center">單挑2646　1999年次
 </td></tr><tr><td>以阿拉伯匈奴聞名，攻勢凌厲，肉馬與弓兵的控制都很驚人。2015突然開竅在一個月內爆增五百分打上單挑榜第一。
 </td></tr><tr><td>匈奴傳說賽季軍、NC15亞軍
 </td></tr></table></div>
@@ -290,7 +290,7 @@
     <a href="https://www.youtube.com/channel/UCe5PZxogLEsu5VacKmOiR5g/videos"><img src="img/YouTube.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/fire.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/br.png" alt="">巴西　<img src="img/BzK.jpg" alt="">BzK
-</td></tr><tr><td style="text-align:center">單挑2479　團戰2259　1988年次
+</td></tr><tr><td style="text-align:center">單挑2510　團戰2259　1988年次
 </td></tr><tr><td>世界上海戰的代表人物，據說單機練習了島嶼升級數百次。陸上的團戰也能有所發揮。
 </td></tr><tr><td>MoI冠軍、AD13季軍、AD17殿軍、SLU亞軍、4v4三亞
 </td></tr></table></div>
@@ -341,7 +341,7 @@
     <a href="https://www.youtube.com/channel/UCScpQlZKVLdPMFBdd1gXbRQ/videos"><img src="img/YouTube.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/VNSBacT.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/vn.png" alt="">越南　<img src="img/VNA.jpg" alt="">VNA　<img src="img/TyRanT.jpg" alt="">TyRanT
-</td></tr><tr><td style="text-align:center">單挑2571　團戰2301　1989年次
+</td></tr><tr><td style="text-align:center">單挑2575　團戰2301　1989年次
 </td></tr><tr><td>早期以精準的兵種戰術選擇聞名。顛峰期 2013~2016, 現今風格偏向前期，長於微操，受貢發揮強。
 </td></tr><tr><td>王者之師季軍、AD13亞軍、　 C2A冠軍、WiC亞軍、AreD兩季、WSVG殿軍
 </td></tr></table></div>
@@ -361,7 +361,7 @@
     <a href="https://www.twitch.tv/themax_"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/TheMax.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/fi.png" alt="">芬蘭 Suomi
-</td></tr><tr><td style="text-align:center">單挑2510　團戰2265　1999年次
+</td></tr><tr><td style="text-align:center">單挑2586　團戰2265　1999年次
 </td></tr><tr><td>團戰最頂級玩家，常在大部分人 80p 時已達 100p。較少打單挑但實力堅強。Barbarian 作者。
 </td></tr><tr><td>KotD四強、AD17季軍、BoA四強、NC17亞軍、ND18冠軍
 </td></tr></table></div>
@@ -380,7 +380,7 @@
     <a href="https://www.twitch.tv/toreeeee"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/zu.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/fi.png" alt="">芬蘭 Suomi　<img src="img/NaBs.jpg" alt="">NaBs
-</td></tr><tr><td style="text-align:center">單挑2406　1990年次
+</td></tr><tr><td style="text-align:center">單挑2409　1990年次
 </td></tr><tr><td>團戰主要負責蒙古，擅常在配兵上智商壓制，經濟和控制都很出色。
 </td></tr><tr><td>ND16殿軍、AD17季軍、BoA四強、NC17亞軍、WiC與王者之師第五名
 </td></tr></table></div>
@@ -419,7 +419,7 @@
     <a href="https://www.douyu.com/1052202"><img src="img/douyu.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/5c.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/cn.png" alt="">中國
-</td></tr><tr><td style="text-align:center">單挑2673　1994年次
+</td></tr><tr><td style="text-align:center">單挑2722　1994年次
 </td></tr><tr><td>單挑前置從塔到僧投接城堡的戰術非常強勢，西征甩槍操作享譽國際。團戰較弱，不擅圍牆。累計退出 SY 兩次、Tim 的隊伍四次。
 </td></tr><tr><td>BoA四強、王者之師殿軍、NC17季軍
 </td></tr></table></div>
@@ -480,7 +480,7 @@
 
 <div><p>　</p>
 <p>照片來源：<a href="https://www.aoezone.net/">AoEZone 共享資源</a>、<a href="https://teamsecret.gg/">Secret 授權</a>、<a href="https://www.facebook.com/gametvgiaidau/">GameTV 授權</a>、選手本人提供</p>
-<p>本頁面由 Lanchi 整理，最後更新 2018/11/28</p></div>
+<p>本頁面由 Lanchi 整理，最後更新 2019/1/15</p></div>
 
 
 </div>

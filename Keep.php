@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -39,7 +37,7 @@
               <a
               href="War_Galley.php">弩炮戰船</a>/<a href="Demolition_Ship.php">神風船</a>/<a href="Fire_Ship.php">火戰船</a>/
                 <a
-                href="LongBoat.php">維京大戰船</a>)。</p>
+                href="Longboat.php">維京大戰船</a>)。</p>
             <p>駐紮弓箭手和村民可增加塔的箭矢數量，同時增加傷害。最多可以有五名（條頓人可十名）的徒步單位（步兵和弓箭手，儘管步兵不會增加火力）可以駐守在一座塔。駐紮的單位可以慢慢恢復生命值。</p>
             <p><a href="Koreans.php">韓國</a>大型箭塔的射程可達13，一般的<a href="Cannon_Galleon.php">火炮戰船</a>和
               <a
@@ -417,5 +415,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

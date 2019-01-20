@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -91,15 +89,21 @@
           <div class="n1">
             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
             <ul>
-              <li>韃靼騎兵獲得+10hp。</li>
-              <li>火砲戰船被拔除了。</li>
-              <li>滑輪起重機被拔除了。</li>
-              <li>掠奪者可在馬廄生產韃靼騎兵。</li>
+              <li>
+                <img class="gg" src="img/TarkanIcon.jpg" alt=""><a href="Tarkan.php">韃靼騎兵</a>獲得+10hp。</li>
+              <li>
+                <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火砲戰船</a>被拔除了。</li>
+              <li>
+                <img class="gg" src="img/Treadmillcrane.jpg" alt=""><a href="Treadmill_Crane.php">滑輪起重機</a>被拔除了。</li>
+              <li>
+                <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Marauders.php">掠奪者</a>可在馬廄生產韃靼騎兵。</li>
             </ul>
             <h3><em><a href="ak.php">非洲王國</a></em></h3>
             <ul>
-              <li>馬弓騎兵成本在城堡/帝王時代減少-10%/20%(而不是原本的-25%/-30%)。</li>
-              <li>掠奪者成本從500F/200G變成300W/200G。</li>
+              <li>
+                <img class="gg" src="img/CavalryArcherIcon.jpg" alt=""><a href="Cavalry_Archer.php">馬弓騎兵</a>成本在城堡/帝王時代減少-10%/20%(而不是原本的-25%/-30%)。</li>
+              <li>
+                <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Marauders.php">掠奪者</a>成本從500F/200G變成300W/200G。</li>
             </ul>
             <h3>圖庫</h3>
             <div class="hrn1"></div>
@@ -173,5 +177,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

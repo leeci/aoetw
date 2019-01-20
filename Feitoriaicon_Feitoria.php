@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -26,7 +24,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>港灣大商站是非洲王朝資料片中，葡萄牙人於帝王時代可以建造的特殊建築物。不需村民蒐幫忙蒐集資源，港灣大商站每秒會給玩家0.8食物、0.8木材、0.45黃金和0.25石頭，也就是每分鐘會給48食物、48木材27黃金和15石頭。不過港灣大商站需要佔用20人口。</p>
+            <p>港灣大商站是"世界地國II:非洲王朝"資料片中葡萄牙人進入帝王時代後可以建造的特殊建築物。不需村民蒐幫忙蒐集資源，港灣大商站每秒會給玩家0.8食物、0.8木材、0.45黃金和0.25石頭，也就是每分鐘會給48食物、48木材27黃金和15石頭。不過港灣大商站需要佔用20人口。</p>
           </div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
@@ -225,5 +223,4 @@
     <?php include( "foot.php"); ?>
     <script src="./js/Keywords.js"></script>
   </body>
-
 </html>

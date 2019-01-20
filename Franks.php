@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -65,7 +63,6 @@
               <li>漿果收集員(採收工)工作效率+25%</li>
               <li>免費農田科技(需有磨坊)</li>
               <li>騎乘單位/騎兵類血量+20%</li>
-              <li>城堡造價便宜25%</li>
               <li><strong>團隊加分:</strong>騎士視野+2</li>
             </ul>
           </div>
@@ -161,5 +158,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

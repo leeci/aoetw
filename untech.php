@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .unit h3 {            text-align: center;        }        .unit a {            color: #fff;        }        .unititle {            text-align: center;            padding: 10px;        }        .unitcontent {            padding: 10px;        }.col-md-3{  margin-top: 10px;}
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <div class="container" style="margin-top:50px">
@@ -231,7 +229,7 @@
               </td>
               <td class="tunitc4"><a href="Nomads.php">游牧</a>
               </td>
-              <td class="tunitc5">300W</td>
+              <td class="tunitc5">300W 150G</td>
               <td class="tunitc6">居住房舍被摧毀人口上限不會下降(城鎮中心城堡不適用)。</td>
             </tr>
             <tr>
@@ -433,7 +431,7 @@
               <td class="tunitc4"><a href="Couriers.php">信使</a>
               </td>
               <td class="tunitc5">400F 200G</td>
-              <td class="tunitc6">槍隊長、投石手和鷹勇士的護甲+1/+2。</td>
+              <td class="tunitc6">槍隊長、投石手和應勇士的護甲+1/+2。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -618,5 +616,4 @@
     <?php include( "alltech.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .unit h3 {            text-align: center;        }        .unit a {            color: #fff;        }        .unititle {            text-align: center;            padding: 10px;        }        .unitcontent {            padding: 10px;        }.col-md-3{  margin-top: 10px;}
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <div class="container" style="margin-top:50px">
@@ -40,7 +38,7 @@
                 <img class="gg" src="img/Aethelfirthicon.png" alt=""><a href="Aethelfirth.php">埃特爾</a>
               </td>
               <td class="tunitc4">步兵</td>
-              <td class="tunitc6">松藍武士</td>
+              <td class="tunitc6">菘藍武士</td>
               <td class="tunitc6"><a href="Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>
               </td>
             </tr>
@@ -77,7 +75,7 @@
                 <img class="gg" src="img/Belisariusicon.png" alt=""><a href="Belisarius.php">貝利沙魯實</a>
               </td>
               <td class="tunitc4">騎兵</td>
-              <td class="tunitc6">拜占庭聖騎兵</td>
+              <td class="tunitc6">拜占庭聖騎兵。</td>
               <td class="tunitc6"><a href="Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>
               </td>
             </tr>
@@ -300,7 +298,7 @@
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
               <td class="tunitc6"><a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a>
-                <br><a href="A_Perfect_Martyr.php.php">完美的烈士</a>
+                <br><a href="A_Perfect_Martyr.php">完美的烈士</a>
               </td>
             </tr>
             <tr>
@@ -384,7 +382,7 @@
                 <img class="gg" src="img/LongbowmanIcon.jpg" alt=""><a href="Robin_Hood.php">羅賓漢</a>
               </td>
               <td class="tunitc4">弓兵</td>
-              <td class="tunitc6">長弓兵</td>
+              <td class="tunitc6">長弓兵。</td>
               <td class="tunitc6">無</td>
             </tr>
             <tr>
@@ -401,7 +399,7 @@
               </td>
               <td class="tunitc4">攻城武器</td>
               <td class="tunitc6">爆炸桶</td>
-              <td class="tunitc6"><a href="Pax_Mongolia.php">蒙古統治下的和平</a>
+              <td class="tunitc6"><a href="Pax_Mongolia.php">蒙古治下的和平</a>
               </td>
             </tr>
             <tr>
@@ -444,7 +442,7 @@
                 <img class="gg" src="img/Sieurdemetz.png" alt=""><a href="Sieur_de_Metz.php">梅茲爵士</a>
               </td>
               <td class="tunitc4">騎兵</td>
-              <td class="tunitc6">騎士</td>
+              <td class="tunitc6">騎士。</td>
               <td class="tunitc6"><a href="An_Unlikely_Messiah.php">一個不大可能的彌賽亞</a>
               </td>
             </tr>
@@ -529,7 +527,7 @@
                     <img class="gg" src="img/Hero_2_Icon.png" alt=""><a href="Alexander_Nevski.php">亞歷山大·涅夫斯基</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
-                  <td class="tunitc6">騎兵</td>
+                  <td class="tunitc6">騎兵。</td>
                   <td class="tunitc6">無</td>
                 </tr>
                 <tr>
@@ -537,18 +535,9 @@
                     <img class="gg" src="img/Attila_the_Hun.png" alt=""><a href="Attila_the_Hun.php">匈奴王阿提拉</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
-                  <td class="tunitc6">拜占庭聖騎兵</td>
+                  <td class="tunitc6">拜占庭聖騎兵。</td>
                   <td class="tunitc6"><a href="Scourge_of_God.php">上帝之鞭</a>
                     <br><a href="Fall_of_Rome.php">羅馬的衰落</a>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="tunitc6">
-                    <img class="gg" src="img/BledaIcon.png" alt=""><a href="Bleda_the_Hun.php">匈奴王貝里達</a>
-                  </td>
-                  <td class="tunitc4">騎兵</td>
-                  <td class="tunitc6">蒙古突騎</td>
-                  <td class="tunitc6"><a href="Scourge_of_God.php">上帝之鞭</a>
                   </td>
                 </tr>
                 <tr>
@@ -642,7 +631,7 @@
                     <img class="gg" src="img/LightCavalryIcon.jpg" alt=""><a href="Scythian_Scout.php">斯基泰斥侯</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
-                  <td class="tunitc6">輕騎兵</td>
+                  <td class="tunitc6">輕騎兵。</td>
                   <td class="tunitc6"><a href="Bukhara(557).php">布哈拉(557)</a>
                     <br><a href="Djeriba_Gold.php">傑爾巴島的黃金</a>
                   </td>
@@ -815,7 +804,7 @@
                         <img class="gg" src="img/Savaranicon.png" alt=""><a href="Savaran.php">貴族首領</a>
                       </td>
                       <td class="tunitc4">騎兵</td>
-                      <td class="tunitc6">拜占庭聖騎兵</td>
+                      <td class="tunitc6">拜占庭聖騎兵。</td>
                       <td class="tunitc6"><a href="Bukhara(557).php">布哈拉(557)</a>
                       </td>
                     </tr>
@@ -989,7 +978,7 @@
                             <img class="gg" src="img/ChuKoNuIcon.jpg" alt=""><a href="Su_Dingfang.php">蘇定方</a>
                           </td>
                           <td class="tunitc4">弓兵</td>
-                          <td class="tunitc6">中國連弩兵</td>
+                          <td class="tunitc6">中國連弩兵。</td>
                           <td class="tunitc6">無</td>
                         </tr>
                         <tr>
@@ -1165,7 +1154,7 @@
                                 <img class="gg" src="img/Radenwijayaicon.png" alt=""><a href="Raden_Wijaya.php">羅登-韋查耶</a>
                               </td>
                               <td class="tunitc4">馬騎弓兵</td>
-                              <td class="tunitc6">象弓騎兵</td>
+                              <td class="tunitc6">象弓騎兵。</td>
                               <td class="tunitc6"><a href="The_Story_of_our_Founders.php">開疆闢土</a>
                               </td>
                             </tr>
@@ -1186,7 +1175,7 @@
                                 <img class="gg" src="img/Suryavarmaniicon.png" alt=""><a href="Suryavarman_I.php">蘇利耶跋摩一世</a>
                               </td>
                               <td class="tunitc4">騎兵</td>
-                              <td class="tunitc6">精銳矛象伕</td>
+                              <td class="tunitc6">精銳矛象伕。</td>
                               <td class="tunitc6">無</td>
                             </tr>
                             <tr>
@@ -1212,7 +1201,7 @@
                                 <img class="gg" src="img/Wangtongicon.png" alt=""><a href="Wang_Tong.php">王通</a>
                               </td>
                               <td class="tunitc4">騎兵</td>
-                              <td class="tunitc6">拜占庭聖騎兵</td>
+                              <td class="tunitc6">拜占庭聖騎兵。</td>
                               <td class="tunitc6">無</td>
                             </tr>
                           </table>
@@ -1223,5 +1212,4 @@
                     <!-- /container -->
                     <?php include( "foot.php"); ?>
   </body>
-
 </html>

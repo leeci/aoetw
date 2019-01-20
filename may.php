@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,16 +10,10 @@
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/jquery.jOrgChart.css" />
-    <link rel="stylesheet" href="css/custom.css" />
-    <link href="css/prettify.css" type="text/css" rel="stylesheet" />
-    <script type="text/javascript" src="js/prettify.js"></script>
     <!-- jQuery includes -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-    <script src="js/jquery.jOrgChart.js"></script>
     <script>
-      jQuery(document).ready(function() {        $("#org").jOrgChart({            chartElement : '#chart',            dragAndDrop  : true        });    });
     </script>
     <!-- Custom styles for this template -->
     <style>
@@ -37,7 +30,6 @@
           opacity: 0.3;
         }
         .allciv{
-
         }
         .gg{
           width: 45px;
@@ -48,7 +40,6 @@
 #banner ul li {
   float: left;
   list-style-type: none;
-
 }
 #banner a::after {
   content: " · ";
@@ -88,8 +79,7 @@ and (max-device-width: 480px)  {
       $(document).ready(function(){  $("#hide").click(function(){    $("#list").hide();  });  $("#show").click(function(){    $("#list").show();  });});
     </script>
   </head>
-  
-  <body onload="prettyPrint();" style=" font-family: " 微軟正黑體 ";">
+  <body style=" font-family: " 微軟正黑體 ";">
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
@@ -416,7 +406,7 @@ and (max-device-width: 480px)  {
           </div><i class="fas fa-arrow-down"></i>
           <br>
           <img class="gg not" src="img/SiegeOnagerIcon.jpg" width="30" alt="">
-          <div><a href="Siege Onager.php" class="">重型投石車</a>
+          <div><a href="Siege_Onager.php" class="">重型投石車</a>
           </div>
         </td>
         <td class="t23 trm">
@@ -683,7 +673,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Goldmining.jpg" alt="">
-          <div><a href="Gold Mining.php">採金技術</a>
+          <div><a href="Gold_Mining.php">採金技術</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm">
@@ -793,7 +783,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t10 trm not">
           <img class="gg" src="img/LongboatIcon.jpg">
-          <div><a href="LongBoat.php">維京大戰船</a>
+          <div><a href="Longboat.php">維京大戰船</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t10 trm not">
@@ -839,7 +829,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t10 trm not">
           <img class="gg" src="img/LongboatIcon.jpg">
-          <div><a href="LongBoat.php">精銳維京大戰船</a>
+          <div><a href="Longboat.php">精銳維京大戰船</a>
           </div>
         </td>
         <td class="t10 trm not">
@@ -906,7 +896,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t19 trm">
           <img class="gg" src="img/Scalemailarmor.jpg" alt="">
-          <div><a href="Scale Mail Armor.php">步兵鱗甲</a>
+          <div><a href="Scale_Mail_Armor.php">步兵鱗甲</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
       </tr>
@@ -937,7 +927,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t19 trm">
           <img class="gg" src="img/Chainmailarmor.jpg" alt="">
-          <div><a href="Chain Mail Armor.php">步兵鎖甲</a>
+          <div><a href="Chain_Mail_Armor.php">步兵鎖甲</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
       </tr>
@@ -968,7 +958,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t19 trm">
           <img class="gg" src="img/Platemailarmor.jpg" alt="">
-          <div><a href="Plate Mail Armor.php">步兵板甲</a>
+          <div><a href="Plate_Mail_Armor.php">步兵板甲</a>
           </div>
         </td>
       </tr>
@@ -986,12 +976,12 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Cartography.jpg">
-          <div><a href="Cartographyavailable.php">製圖學</a>
+          <div><a href="Cartography.php">製圖學</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/TradeCartIcon.jpg">
-          <div><a href="Tradecartavailable.php">貿易車隊</a>
+          <div><a href="Trade_Cart.php">貿易車隊</a>
           </div>
         </td>
         <td class="t23 trm"></td>
@@ -1004,12 +994,12 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/CaravanII.png">
-          <div><a href="Caravanavailable.php">大商隊</a>
+          <div><a href="Caravan.php">大商隊</a>
           </div>
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Coinage.jpg">
-          <div><a href="Coinageavailable.php">鑄幣術</a>
+          <div><a href="Coinage.php">鑄幣術</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm"></td>
@@ -1022,12 +1012,12 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Guilds.jpg">
-          <div><a href="Guildsavailable.php">行會制度</a>
+          <div><a href="Guilds.phpp">行會制度</a>
           </div>
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Banking.jpg">
-          <div><a href="Bankingavailable.php">銀行制度</a>
+          <div><a href="Banking.php">銀行制度</a>
           </div>
         </td>
         <td class="t23 trm"></td>
@@ -1139,7 +1129,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Fortified-wall-research.jpg" alt="">
-          <div><a href="Fortified Wall.php">垛牆</a>
+          <div><a href="Fortified_Wall.php">垛牆</a>
           </div>
         </td>
         <td class="t11 trm">
@@ -1149,22 +1139,22 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Guard-tower-research.jpg" alt="">
-          <div><a href="Guard Tower.php">防禦箭塔</a>
+          <div><a href="Guard_Tower.php">防禦箭塔</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Heatedshot.png" alt="">
-          <div><a href="Heated Shot.php">預熱射擊</a>
+          <div><a href="Heated_Shot.php">預熱射擊</a>
           </div>
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Murderholes.jpg" alt="">
-          <div><a href="Murder Holes.php">垛孔</a>
+          <div><a href="Murder_Holes.php">垛孔</a>
           </div>
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Treadmillcrane.jpg" alt="">
-          <div><a href="Treadmill Crane.php">滑輪起重機</a>
+          <div><a href="Treadmill_Crane.php">滑輪起重機</a>
           </div>
         </td>
         <td class="t11 trm"></td>
@@ -1213,5 +1203,4 @@ and (max-device-width: 480px)  {
     </div>
     <!-- /container -->
   </body>
-
 </html>

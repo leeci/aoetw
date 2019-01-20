@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -47,8 +45,6 @@
             <ul>
               <li>
                 <img class="gg" src="img/New_Genoese_Crossbowman.png" alt="">熱那亞弩手:反騎兵弓兵，對騎兵有攻擊加成但射程比一般弓兵短。</li>
-              <li>
-                <img class="gg" src="img/CondottieroNewIcon.jpg">僱傭兵:義大利的第二種特殊單位，能夠在帝王時代的兵營中訓練。任何與義大利同盟的國家都能生產。</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
@@ -177,5 +173,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .ttt{    color: #dc3545;    margin-top: 20px;    font-size: 35px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -25,7 +23,7 @@
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
-          <p>隨機地圖是目前最主要遊戲模式（另一地圖是真實世界）。在該模式中每場遊戲的地形地貌隨機生成都不相同，在地圖的每個腳弱都有不同的景觀和地形。</p>
+          <p>隨機地圖是目前最主要遊戲模式（另一地圖是真實世界）。在該模式中每場遊戲的地形地貌隨機生成都不相同，在地圖的每個角落都有不同的景觀和地形。</p>
           <h3>地圖列表</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -142,5 +140,4 @@
     <!-- /container -->
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

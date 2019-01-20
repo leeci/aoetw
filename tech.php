@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .unit h3 {            text-align: center;        }        .unit a {            color: #fff;        }        .unititle {            text-align: center;            padding: 10px;        }        .unitcontent {            padding: 10px;        }.col-md-3{  margin-top: 10px;}
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <div class="container" style="margin-top:50px">
@@ -28,7 +26,7 @@
       </div>
       <div class="row">
         <div class="col-md-12">
-           <h3><a href="">兵營</a></h3> 
+           <h3><a href="Barracks.php">軍營</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -63,7 +61,7 @@
               </td>
             </tr>
           </table>
-           <h3><a href="">射箭場</a></h3> 
+           <h3><a href="Archery_Range.php">射箭場</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -89,7 +87,7 @@
               <td class="tunitc6">馬騎弓兵護甲+1/+2，對<a href="Pikeman.php">長槍兵</a>攻擊+4。</td>
             </tr>
           </table>
-           <h3><a href="">馬廄</a></h3> 
+           <h3><a href="Stable.php">馬廄</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -115,7 +113,7 @@
               <td class="tunitc6">騎兵移動速度+10%。</td>
             </tr>
           </table>
-           <h3><a href="">城鎮中心</a></h3> 
+           <h3><a href="Town_Center.php">城鎮中心</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -165,7 +163,7 @@
               <td class="tunitc6">建築視野+4。</td>
             </tr>
           </table>
-          <h3><a href="">修道院</a></h3> 
+          <h3><a href="Monastery.php">修道院</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -255,7 +253,7 @@
               <td class="tunitc6">一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。</td>
             </tr>
           </table>
-          <h3><a href="">市集</a></h3> 
+          <h3><a href="Market.php">市集</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -355,7 +353,7 @@
               <td class="tunitc6">軍營、靶場、馬廄、城堡訓練部隊速度+33%。</td>
             </tr>
           </table>
-           <h3><a href="">碼頭</a></h3> 
+           <h3><a href="Dock.php">碼頭</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -397,7 +395,7 @@
               <td class="tunitc6">漁船工作速率+25%。</td>
             </tr>
           </table>
-           <h3><a href="">學院</a></h3> 
+           <h3><a href="University.php">學院</a></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -758,5 +756,4 @@
     <?php include( "alltech.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -26,7 +24,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>龜甲船是<a href="Koreans.php">韓國</a>在<a href="aoc.php">征服者入侵</a>資料片中的第二個特殊單位，在
+            <p>龜甲船是<a href="Koreans.php">韓國</a>在<a href="aoc.php">《世界帝國II:征服者入侵》</a>資料片中的第二個特殊單位，在
               <a
               href="Castle_Age.php">城堡時代</a>的<a href="Dock.php">碼頭</a>可以訓練。它是一艘重裝甲的火炮戰船。</p>
             <p>龜甲船可在<a href="Imperial_Age.php">帝王時代</a>升級為精銳龜甲船。</p>
@@ -502,5 +500,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

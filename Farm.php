@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -140,8 +138,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="Armor_class_building.php">建築</a>
+                <br> <a href="Armor_class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -238,21 +236,13 @@
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-            <ul>
-              <li>尚未建造好的農田可以被敵方村民採集，採集後會變成無限農田，但採集速度極慢</li>
-              <li>尚未開始建造的農田是無敵狀態，即使被攻擊也不會消失</li>
-            </ul>
             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
             <ul>
               <li><a href="Mayans.php">馬雅</a>：農田的食物多20％。</li>
-              <li>尚未開始建造的農田被敵人打到一下，立即消失</li>
             </ul>
             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
             <ul>
               <li><a href="Mayans.php">馬雅</a>：農田的食物多15％。</li>
-              <li>尚未建造好農田不能再被敵方村民採集</li>
-              <li>農田不受擴散攻擊範圍影響，也就是衝撞車或投石車攻擊目標即使不是農田，但擴散攻擊無法傷害到農田</li>
             </ul>
             <h3><em><a href="ak.php">非洲王國</a></em></h3>
             <ul>
@@ -298,5 +288,4 @@
     <?php include( "allbuilding.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

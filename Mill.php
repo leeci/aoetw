@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -21,12 +19,9 @@
       <!-- Example row of columns -->
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
-        <h1>磨坊</h1>
+          <h1>磨坊</h1>
           <div class="hrn1"></div>
-          </div>    
-        <div class="col-md-8">
-          
-          
+          <div class="col-md-8">
             <div class="n1">
               <p>磨坊是<a href="Dark_Age.php">黑暗時代</a>的經濟建築之一，<a href="Villager.php">村民</a>可以將"任何"食物搜集至此。當然這裡也有關於
                 <a
@@ -308,7 +303,6 @@
             </table>
             <div class="thanks">感謝! 此頁面由小蝦、賜齡、眠協助編輯</div>
           </div>
-          
           <div class="col-md-12">
              <h3>圖庫</h3>
             <div class="hrn1"></div>
@@ -359,11 +353,13 @@
     </div>
     </div>
     </div>
-    
-  
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12"></div>
+    </div>
     <!-- /container -->
     <?php include( "allbuilding.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

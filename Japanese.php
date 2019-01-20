@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -129,41 +127,38 @@
               </tr>
               <tr>
                 <td class="tta1">征服者的戰役-洛陽點(1598)</td>
-                  <td class="tta2"><span class="fas fa-check" style="color: #d9534f;"></span>
+                  <td class="tta2"><i class="fas fa-times" style="color: #d9534f;"></i>
                    </td>     
                   <td class="tta3">
-                      日本海軍(敵對)<div class="p4"></div><br>
-                      日本侵略者(敵對)<div class="p6"></div></td>                    
+                      <div class="p4">日本海軍(敵對)</div><br>
+                      <div class="p6">日本侵略者(敵對)</div></td>                    
               </tr>                    
               <tr>                        
                   <td class="tta1">征服者的戰役-京都(1582)</td>                        
-                  <td class="tta2"><span class="fas fa-check" style="color: green;"></span></td>                        
+                  <td class="tta2"><i class="fas fa-check" style="color: green;"></i></td>                        
                   <td class="tta3">
-                      玩家<div class="p5"></div><br>
-                      大阪(敵對)<div class="p2"></div><br>
-                      京都(敵對)<div class="p3"></div><br>
-                      織田信長(友軍)<div class="p4"></div><br>
-                      靜岡(敵對)<div class="p1"></div></td>                    
+                      <div class="p5">玩家</div><br>
+                      <div class="p2">大阪(敵對)</div><br>
+                      <div class="p3">京都(敵對)</div><br>
+                      <div class="p4">織田信長(友軍)</div><br>
+                      <div class="p1">靜岡(敵對)</div></td>                    
                 </tr>                    
               <tr>                        
                   <td class="tta1">征服者的戰役-礪波山(1183)</td>                        
-                  <td class="tta2"><span class="fas fa-check" style="color: green;"></span></td>                        
+                  <td class="tta2"><i class="fas fa-check" style="color: green;"></i></td>                        
                   <td class="tta3"><div class="p1">玩家</div><br>
-                      木曾義仲(友軍)<div class="p6"></div><br>
-                      北条式(友軍)<div class="p4"></div><br>
-                      平式軍閥(敵對)<div class="p2"></div><br>
-                      京都(敵對)<div class="p5"></div><br>
-                      平家軍(敵對)<div class="p8"></div><br>
-                      平式守衛(敵對)<div class="p3"></div><br>
-                      當地人(友軍)<div class="p7"></div></td>                    
+                      <div class="p6">木曾義仲(友軍)</div><br>
+                          <div class="p4">北条式(友軍)</div><br>
+                          <div class="p2">平式軍閥(敵對)</div><br>
+                          <div class="p5">京都(敵對)</div><br>
+                          <div class="p8">平家軍(敵對)</div><br>
+                          <div class="p3">平式守衛(敵對)</div><br>
+                          <div class="p7">當地人(友軍)</div></td>                    
                 </tr>                
-                      
              </table>
-              
               <h3>更新日誌</h3>
               <div class="hrn1"></div>
               <div class="n1">
-                  
             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
             <ul>    
                <li>步兵從封建時代攻擊速度快25%。</li>
@@ -192,7 +187,6 @@
                 <li>日本有許多火山，使日本的土地以島嶼來說是非常肥沃的，遊戲中日本有便宜的經濟建築，就是為了體現這一點。</li>  
                 <li>作為一個島嶼民族，日本人酷愛吃魚，遊戲中的漁船加成由此而來。</li>
             </ul></div>
-               </div>
         <h3>圖庫</h3>
               <div class="hrn1"></div>
               <div class="n1"> 
@@ -202,7 +196,7 @@
                   </div>
               </div>
             </div>  
-           
+          </div>  
           <div class="col-md-4">      
         <table class="table-bordered" width="100%">      
             <tr><td class="unit" colspan="2" style=" background-color:#e6992c;">       

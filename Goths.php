@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,7 +8,6 @@
     <link rel="icon" href="favicon.ico">
     <title>Aoetw</title>
     <style>body { padding-top: 0px; font-family: "微軟正黑體"; background-color: #f5f5f5; font-size: 18px; }</style></head>
-  
   <body>
     <?php include( "head.php"); ?>
       <div class="container">
@@ -67,6 +65,12 @@
                 <li>
                   <strong>團隊加分:</strong>軍營生產速度快20%</li></ul>
             </div>
+			<h3>科技樹</h3>
+			  <div class="hrn1"></div>
+			  <div class="n1">
+				<em><a href="got.php">哥德科技樹</a></em>
+			  </div>
+			  <br>
             <h3>
               <strong>戰術概論</strong></h3>
             <div class="hrn1"></div>
@@ -129,182 +133,182 @@
                   <tr class="tta">
                     <td>戰役名稱</td>
                     <td>可否使用</td>
-                    <td>稱號與顏色</td>
-                  </tr>
+                    <td>稱號與顏色</td></tr>
                   <tr>
                     <td class="tta1">巴巴羅薩1-神聖羅馬皇帝</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      奧地利(敵對)<div class="p1"></div></td>
+                      <div class="p1">奧地利(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">巴巴羅薩2-猛獅亨利</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      波蘭(敵對)<div class="p1"></div></td>
+                      <div class="p1">波蘭(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">成吉思汗4-遊牧民族的西遷</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      俄羅斯(敵對)<div class="p2"></div></td>
+                      <div class="p2">俄羅斯(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">成吉思汗5-承諾</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      波蘭人(敵對)<div class="p1"></div></td>
+                      <div class="p1">波蘭人(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿提拉2-偉大的騎士</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      尼賽斯(敵對)<div class="p3"></div></td>
+                      <div class="p3">尼賽斯(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿提拉3-君士坦丁堡的城牆</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      馬西雅拿不勒斯(敵對)<div class="p3"></div></td>
+                      <div class="p3">馬西雅拿不勒斯(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿提拉5-卡塔隆尼亞平原(895)</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      東哥德人(友軍)<div class="p2"></div>
-                      <br>
-                      西哥德人(敵對)<div class="p3"></div></td>
+                      <div class="p2">東哥德人(友軍)</div>
+                      <BR>
+                      <div class="p3">西哥德人(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">征服者的戰役-哈斯汀斯(1066)</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      撒克遜(敵對)<div class="p2"></div>
-                      <br>
-                      撒克遜人哈羅德(敵對)<div class="p8"></div>
-                      <br>
-                      哈羅德的偷襲部隊(敵對)<div class="p4"></div></td>
+                      <div class="p2">撒克遜(敵對)</div>
+                      <BR>
+                      <div class="p8">撒克遜人哈羅德(敵對)</div>
+                      <BR>
+                      <div class="p4">哈羅德的偷襲部隊(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿拉里克1-條條大路通圍城</td>
                     <td class="tta2">
-                      <span class="fas fa-check" style="color: green;"></span>
+                      <i class="fas fa-check" style="color: green;"></i>
                     </td>
                     <td class="tta3">
-                      玩家<div class="p1"></div>
-                      <br>
-                      哥德人(友軍)<div class="p6"></div>
-                      <br>
-                      哥德難民(友軍)<div class="p7"></div></td>
+                      <div class="p1">玩家</div>
+                      <BR>
+                      <div class="p6">哥德人(友軍)</div>
+                      <BR>
+                      <div class="p7">哥德難民(友軍)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿拉里克2-羅馬軍團隨時殺到</td>
                     <td class="tta2">
-                     <span class="fas fa-check" style="color: green;"></span>
+                     <i class="fas fa-check" style="color: green;"></i>
                     </td>
                     <td class="tta3">
-                      玩家<div class="p1"></div>
+                      <div class="p1">玩家</div>
                       <br>
-                      阿陶爾夫的部隊(友軍)<div class="p3"></div>
+                      <div class="p3">阿陶爾夫的部隊(友軍)</div>
                       <br>
-                      哥德人(友軍)<div class="p6"></div></td>
+                      <div class="p6">哥德人(友軍)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿拉里克3-西域之君</td>
                     <td class="tta2">
-                      <span class="fas fa-check" style="color: green;"></span>
+                      <i class="fas fa-check" style="color: green;"></i>
                     </td>
                     <td class="tta3">
-                      玩家<div class="p1"></div>
+                      <div class="p1">玩家</div>
                       <br>
-                      薩魯斯(敵對)<div class="p3"></div>
+                      <div class="p3">薩魯斯(敵對)</div>
                       <br>
-                      阿拉里克(友軍)<div class="p5"></div></td>
+                      <div class="p5">阿拉里克(友軍)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">阿拉里克4-洗劫羅馬</td>
                     <td class="tta2">
-                      <span class="fas fa-check" style="color: green;"></span>
+                      <i class="fas fa-check" style="color: green;"></i>
                     </td>
                     <td class="tta3">
-                      玩家<div class="p1"></div>
+                      <div class="p1">玩家</div>
                       <br>
-                      哥德人(友軍)<div class="p3"></div>
+                      <div class="p3">哥德人(友軍)</div>
                       <br>
-                      阿陶爾夫(友軍)<div class="p5"></div></td>
+                      <div class="p5">阿陶爾夫(友軍)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">巴里1-抵達巴里</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      倫巴第(敵對)<div class="p7"></div></td>
+                      <div class="p7">倫巴第(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">巴里2-邁勒斯叛變</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      友好的倫巴第人(友軍)<div class="p3"></div>
+                      <div class="p3">友好的倫巴第人(友軍)</div>
                       <br>
-                      反抗軍(敵對)<div class="p8"></div></td>
+                      <div class="p8">反抗軍(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">塔里克．伊本．齊亞德1-瓜達萊特之戰</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      羅德里克軍隊(敵對)<div class="p3"></div>
+                      <div class="p3">羅德里克軍隊(敵對)</div>
                       <br>
-                      西哥德(敵對)<div class="p5"></div>
+                      <div class="p5">西哥德(敵對)</div>
                       <br>
-                      當地人(友軍)<div class="p7"></div></td>
+                      <div class="p7">當地人(友軍)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">塔里克．伊本．齊亞德2-攻城拔寨</td>
                     <td class="tta2">
-                    <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></td>
                     <td class="tta3">
-                      西哥德守備隊(敵對)<div class="p3"></div>
+                      <div class="p3">西哥德守備隊(敵對)</div>
                       <br>
-                      梅里達(敵對)<div class="p2"></div>
+                      <div class="p2">梅里達(敵對)</div>
                       <br>
-                      瓜達拉哈拉(敵對)<div class="p5"></div></td>
+                      <div class="p5">瓜達拉哈拉(敵對)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">塔里克．伊本．齊亞德3-縱橫捭闔</td>
                     <td class="tta2">
-                      <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></i></td>
                     <td class="tta3">
-                      穆爾西亞的奧德米爾(敵對)<div class="p8"></div>
+                      <div class="p8">穆爾西亞的奧德米爾(敵對)</div>
                       <br>
-                      阿斯圖里亞斯帝國(敵對)<div class="p2"></div>
+                      <div class="p2">阿斯圖里亞斯帝國(敵對)</div>
                       <br>
-                      納博納(敵對)<div class="p5"></div>
+                      <div class="p5">納博納(敵對)</div>
                       <br>
-                      當地人(友軍)<div class="p7"></div></td>
+                      <div class="p7">當地人(友軍)</div></td>
                   </tr>
                   <tr>
                     <td class="tta1">塔里克．伊本．齊亞德4-穿越庇里牛斯山脈</td>
                     <td class="tta2">
-                    <span class="fas fa-times" style="color: #d9534f;"></span></td>
+                      <i class="fas fa-times" style="color: #d9534f;"></td>
                     <td class="tta3">
-                      當地人(友軍)<div class="p7"></div>
+                      <div class="p7">當地人(友軍)</div>
                       <br>
-                      阿斯圖里亞人(敵對)<div class="p2"></div>
+                      <div class="p2">阿斯圖里亞人(敵對)</div>
                       <br>
-                      西哥德人(敵對)<div class="p6"></div></td>
+                      <div class="p6">西哥德人(敵對)</div></td>
                   </tr>
                 </table>
-             
+              </p>
+			
               <h3>趣事</h3>
               <div class="hrn1"></div>
               <div class="n1">
@@ -384,5 +388,4 @@
         <!-- /container -->
         <?php include( "allciv.php"); ?>
           <?php include( "foot.php"); ?></body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -41,34 +39,11 @@
               <li>防止敵方快攻上蓋城門比蓋石牆有用，因為城門佔四格而垛牆佔一格，時間上蓋城門的效益更大</li>
             </ul>
           </div>
-          <h3>擁有文明</h3> 
-          <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可建造文明</span></strong></h4>  <a href="Aztecs.php">阿茲特克</a>、 <a href="Berbers.php">柏柏</a>、 <a href="Britons.php">不列顛</a>、
-                <a
-                href="Burmese.php">緬甸</a>、 <a href="Byzantines.php">拜占庭</a>、 <a href="Celts.php">賽爾特</a>、
-                  <a
-                  href="Chinese.php">中國</a>、 <a href="Ethiopians.php">衣索比亞</a>、 <a href="Franks.php">法蘭克</a>、
-                    <a
-                    href="Incas.php">印加</a>、 <a href="Indians.php">印度</a>、 <a href="Italians.php">義大利</a>、
-                      <a
-                      href="Japanese.php">日本</a>、 <a href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Malians.php">馬利</a>、
-                        <a
-                        href="Mayans.php">馬雅</a>、 <a href="Mongols.php">蒙古</a>、 <a href="Portuguese.php">葡萄牙</a>、
-                          <a
-                          href="Saracens.php">薩拉森</a>、 <a href="Slavs.php">斯拉夫</a>、 <a href="Spanish.php">西班牙</a>、 <a href="Teutons.php">條頓</a>。
-                            <a
-                            href="Turks.php">土耳其</a>、 <a href="Vietnamese.php">越南</a>、 <a href="Vikings.php">維京</a>。</div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-12">
-              <div class="n1">
-                <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可建造文明</span></strong></h4>  <a href="Goths.php">哥德</a>、 <a href="Huns.php">匈奴</a>、 <a href="Magyars.php">馬扎爾</a>、
-                <a
-                href="Malay.php">馬來</a>、 <a href="Persians.php">波斯</a>。</div>
+                <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可建造文明</span></strong></h4>  <a href="Goths.php">哥德</a>
+			  </div>
             </div>
           </div>
           <h3>更多數據</h3>
@@ -233,10 +208,10 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_class_building.php">建築</a>(+16)
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
-                <br> <a href="img/Armor_class_stone_defense.php">石造建築</a>
-                <br> <a href="img/Armor_class_wall_and_gate.php">牆與門</a> 
+              <td class="unit4"><a href="Armor_class_building.php">建築</a>(+16)
+                <br> <a href="Armor_class_standard_building.php">標準建築</a>
+                <br> <a href="Armor_class_stone_defense.php">石造建築</a>
+                <br> <a href="Armor_class_wall_and_gate.php">牆與門</a> 
               </td>
             </tr>
             <tr>
@@ -289,5 +264,4 @@
     <?php include( "allbuilding.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -51,7 +49,7 @@
             <li>
               <img class="gg" src="img/CastleAgeUnique.png" alt="">異端審判:加快僧侶招降速度。</li>
             <li>
-              <img class="gg" src="img/Unique-tech.jpg" alt="">霸權:村民具有超強作戰能力。</li>
+              <img class="gg" src="img/Unique-tech.jpg" alt="">至高主權:村民具有超強作戰能力。</li>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
@@ -155,7 +153,7 @@
               <td class="unit4">
                 <img class="gg" src="img/CastleAgeUnique.png">異端審判
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">霸權</td>
+                <img class="gg" src="img/Unique-tech.jpg">至高主權</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>
@@ -169,5 +167,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

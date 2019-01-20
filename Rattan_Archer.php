@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -86,14 +84,14 @@
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Thumb_Ring.png" class="gg" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</td>
+                  <img src="img/Thumb_Ring.png" class="gg" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <img src="img/Ballistics.jpg" class="gg" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)
                 <br>
-                <img src="img/Thumb_Ring.png" class="gg" alt=""><a href="Thumb _Ring.php">拇指環</a>(命中率提升到100%)</td>
+                <img src="img/Thumb_Ring.png" class="gg" alt=""><a href="Thumb_Ring.php">拇指環</a>(命中率提升到100%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -306,5 +304,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -174,29 +172,11 @@
     <div class="row zo">
       <div class="col-md-12"> <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample2-4"
         aria-expanded="false" aria-controls="collapseExample">2-4.我的版本不會自動更新</a> 
-        <div class="collapse" id="collapseExample2-4">
+        <div
+        class="collapse" id="collapseExample2-4">
           <div class="well">參考下圖設定，若下方選項選這個，開著steam且遊戲不開就會自動更新了
             <img src="https://i.imgur.com/KbnO3Tll.jpg"
             alt="">
-          </div>
-      </div>
-    </div>
-    </div>
-
-    <div class="row zo">
-      <div class="col-md-12"> <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample2-5"
-        aria-expanded="false" aria-controls="collapseExample">2-5.遊戲內無法輸入中文</a> 
-        <div class="collapse" id="collapseExample2-5">
-          <div class="well">
-
-            <p>win+空白或是ctrl+空白鍵可切換輸入法   <a href="https://www.ptt.cc/bbs/Windows/M.1438952591.A.AE7.html">詳細解法</a></p>
-    
-
-
-            <p>遊戲內請參考下圖設定</p>
-            <img src="https://i.imgur.com/NSGNtfQ.jpg"
-            alt="">
-       
           </div>
       </div>
     </div>
@@ -271,9 +251,33 @@
       </div>
     </div>
     </div>
-
-
-
+    <h3>4.遊戲戰術相關</h3> 
+    <div class="row zo">
+      <div class="col-md-12"> <a class="btn btn-warning" role="button" data-toggle="collapse" href="#collapseExample4-1"
+        aria-expanded="false" aria-controls="collapseExample">4-1.為什麼看你們打都不撿遺跡?</a> 
+        <div
+        class="collapse" id="collapseExample4-1">
+          <div class="well">
+            <p>今天要跟大家講一個生香油錢的故事，說到世紀帝國的遺跡，就一個長得很像獎杯，遊戲開始時散落在地圖各地，只有僧侶可以搬運，而當他被放置到修道院時，他就會以每2秒1黃金的速度生產黃金所以說呢，你遺跡越多黃金就越多啦，那到底為什麼實戰中大家都不撿遺跡呢？</p>
+            <h4>成本上來說</h4>
+            <p>首先來算算撿遺跡的成本，修道院175木頭，僧侶100黃金，在城堡初期的大戰中，一兵一卒都是非常珍貴的，這175木頭和100黃金，我大可拿來做其他事情，例如起城鎮中心爆經濟，或是拿去生軍事單位，對戰局的影響都遠超過撿遺跡。</p>
+            <h4>控制力來說</h4>
+            <p>其次是控制力，城堡初期是相當耗費控制力的，你真的以每個玩家都是怪力，有四隻手在控兵嗎？我要控馬還要控經濟，如果我打弩兵那耗費的控制力將會更多。你要蓋修道院，還要生僧侶，生完僧侶他不是ai阿，你還要手控去搬遺跡，而遺跡也不是你家隔壁鄰居老王這麼近阿，有的十萬八千里遠最後你還要把般著遺跡的僧侶拉回來，這中間耗費多少控制力，一樣道理，我把那些控制力去控馬多殺敵人幾隻村民，去爆經濟對於初期的戰局，我能獲得更大的回報。</p>
+            <h4>功能面來說</h4>
+            <p>撇除前面的原因，老子就是有錢蓋了修道院和出了僧侶，那為什麼你還是不撿遺跡，僧侶這麼好用，當然出來直接上戰場阿，僧侶可招降可補血，非常好用，對於一隻軍隊的幫助非常大，舉個例子好了，五隻駱駝配五隻征服者，明顯的是征服者可以虐殺駱駝，但配五隻駱駝一隻僧侶打六隻征服者那情況就相當不一樣，僧侶號稱最強防守兵種，我吃飽閒閒沒事去外面撿遺跡，那就是空閒，僧侶走的又慢，一來一往都把戰局給賣了，所以回歸到最原始的功能面，僧侶就該做他該做的事情，招降和補血，行有餘力等戰局穩定時再來做他額外的事情吧</p>
+          </div>
+      </div>
+    </div>
+    </div>
+    <div class="row zo">
+      <div class="col-md-12"> <a class="btn btn-warning" role="button" data-toggle="collapse" href="#collapseExample4-2"
+        aria-expanded="false" aria-controls="collapseExample">4-2.被偷豬影響有多大?</a> 
+        <div
+        class="collapse" id="collapseExample4-2">
+          <div class="well">表面上被偷豬不計耗損，損失340肉，而對方賺340肉，但實際上靠趕鹿早點種田等方式，其實損失沒有帳面上如此大，高手即使被偷豬升級也不會被影響。但偷豬還有隱形的損失，且隱形的損失遠大於帳面上，譬如說偷豬的那一方多吃一隻豬，等於斥侯趕了2隻半的鹿，代表他不用提早種田，有多餘的木頭可以做更多的事情，被偷豬的那一方斥侯得在家趕鹿，所以沒有辦法探情報，對方如果打裝甲塔還是前置等兇猛的打法，沒辦法提早做準備，這是最虧的。</div>
+      </div>
+    </div>
+    </div>
     <hr>
     <blockquote>
       <p>此頁面感謝qaws68（伊森）整理<a href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html">AOE常見問題</a>完成</p>
@@ -282,5 +286,4 @@
     <!-- /container -->
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

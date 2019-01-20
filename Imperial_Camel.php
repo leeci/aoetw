@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -54,7 +52,7 @@
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4"><a href="Pikeman.php">重裝長槍兵</a>、<a href="Teutonic_Knight.php">條頓武士</a>、
                 <a
-                href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Bersek.php">狂戰士</a>。</td>
+                href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Berserk.php">狂戰士</a>。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -64,7 +62,7 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
@@ -87,7 +85,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -140,10 +138,9 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)</li>
                   </div>
                 </div>
-                  
                 <div class="col-md-6">
                     <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
@@ -159,7 +156,6 @@
                     <li>
                       <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
                     </li>
-                    
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                   </div>
@@ -242,7 +238,7 @@
               <li><a href="Huns.php">匈奴</a>：帝王駱駝騎兵生產效率快20%，<a href="Bloodlines.php">品種</a>與
                 <a
                 href="Husbandry.php">畜牧技術</a>研發快20%。</li>
-              <li><a href="Indians.php">印度</a>：帝王駱駝騎兵對<a href="Armor_Class_Building.php">建築</a>+6攻擊。</li>
+              <li><a href="Indians.php">印度</a>：帝王駱駝騎兵對<a href="Armor_class_building.php">建築</a>+6攻擊。</li>
               <li><a href="Teutons.php">條頓</a>：帝王駱駝騎兵對僧侶抵抗力更強。</li>
             </ul>
           </div>
@@ -439,5 +435,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

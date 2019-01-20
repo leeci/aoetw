@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .ten{          font-size: 15px;          color: #31708f;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -71,7 +69,7 @@
                 <li>馬廄效率快20％。</li>
               </ul><strong>印度：</strong>
               <ul>
-                <li>駱駝對建築物有+6攻擊。</li>
+                <li>駱駝對建築物有+5攻擊。</li>
               </ul><strong>印加：</strong>
               <ul>
                 <li>建造農田快50％。</li>
@@ -97,7 +95,7 @@
                 <li>碼頭擁有100％的視野。</li>
               </ul><strong>馬利：</strong>
               <ul>
-                <li>學院研究速度快50％。</li>
+                <li>學院研究速度快80％。</li>
               </ul><strong>馬雅：</strong>
               <ul>
                 <li>城牆便宜50％。石牆-2石 木牆-1木</li>
@@ -139,5 +137,4 @@
       <!-- /container -->
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

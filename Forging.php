@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -42,8 +40,6 @@
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>鍛造俗稱打鐵，是將金屬加熱後，利用衝擊或擠壓之方式，使金屬成形的方法。古代許多之武器及工具都是金屬材料透過鍛造而製成。一般我們所熟知的手工鍛造，是屬於熱鍛，是鐵匠將金屬材料固定於砧座上，以平錘敲擊，使金屬鍛造成形，多用於修理及維護工作。</p>
-            <p>鍛造可分為熱鍛及冷鍛。差別在於再結晶溫度，熱鍛須將金屬加熱至再結晶溫度以上，冷鍛則需加熱至再結晶溫度以下。</p>
             <p>鐵製工具和武器是通過鍛造從鐵棒製作而成的。鐵棒在熔爐裡加熱直到他們是紅熱的。透過敲擊將它們塑型。鐵匠將熱鐵棒固定在砧座上並打成所需的形狀。在專業鐵匠手中，透過不斷加熱，敲打和冷卻的過程創造了很多高質量的工具和鋒利，堅固的武器。在鐵匠鋪工作的人被稱為鐵匠，因為他們工作會使用黑鐵，在一天的工作後也會變得非常骯髒。</p>
           </div>
         </div>
@@ -113,7 +109,7 @@
               <td class="unit4">步兵、騎兵攻擊+1。</td>
             </tr>
           </table>
-          <div class="thanks">感謝! 此頁面由賜齡協助編輯,歷史部分由Crownw提供</div>
+          <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
         </div>
       </div>
       <div class="row">
@@ -123,5 +119,4 @@
     <!-- /container -->
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

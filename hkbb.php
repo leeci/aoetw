@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .flg{          width: 25px;margin: 0px 5px;"        }        .wkw{            color: #03648e;            font-weight: bold;        }        .w1{            margin-top: 50px;        }        .m3{            padding: 20px 0px 0px 80px;            color: #03648e;        }        .dw{            padding-top: 5px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -232,6 +230,22 @@
             <tr>
               <td>負責網站的爬蟲程式，讓編輯者省下相當多的工。</td>
             </tr>
+              <tr>
+              <td>
+                <h4><strong>Damody</strong></h4>
+              </td>
+            </tr>
+            <tr>
+              <td>優化整個網站架構，並寫了搜尋，對aoetw貢獻巨大</td>
+            </tr>
+                        <tr>
+              <td>
+                <h4><strong>小蛇中二病</strong></h4>
+              </td>
+            </tr>
+            <tr>
+              <td>於2018年底加入，用獨特的寫法完成了一些有趣的條目。嘲諷語音、回血、駐軍等等</td>
+            </tr>
           </table>
         </div>
       </div>
@@ -240,5 +254,4 @@
     <?php include( "allwide.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

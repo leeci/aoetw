@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -85,7 +83,7 @@
                 <br>
                 <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_class_building.php">建築</a>和
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定</td>
             </tr>
@@ -101,7 +99,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -345,5 +343,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

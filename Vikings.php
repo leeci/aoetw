@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -40,7 +38,8 @@
             <ul>
               <li>
                 <img class="gg" src="img/VBRSK.jpg" width="22" alt="">狂戰士:擅於對付部分騎兵與步兵的特殊步兵</li>
-              <li><img class="gg" src="img/LongboatIcon.jpg" width="22" alt="">維京大戰船</li>
+              <li><a href="Elite_Longboat.php">精銳維京大戰船</a>
+              </li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
@@ -144,7 +143,7 @@
               <td class="unit3">特殊單位</td>
               <td class="unit4">
                 <img class="gg" src="img/VBRSK.jpg">狂戰士
-                <br><img class="gg" src="img/LongboatIcon.jpg" width="22" alt="">維京大戰船精銳維京大戰船
+                <br> <a href="Elite_Longboat.php">精銳維京大戰船</a>
               </td>
             </tr>
             <tr>
@@ -170,5 +169,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

@@ -605,7 +605,7 @@ $(document).ready(function(){
         <tr>
             <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></div></td>
 
-          <td class="t19 trm not"><img class="gg" src="img/Leatherarcherarmor.jpg" alt=""><div><a href="Leather_Archer_Armor.php">弓兵皮甲</a></div><i class="fas fa-arrow-down"></i></td>
+          <td class="t19 trm "><img class="gg" src="img/Leatherarcherarmor.jpg" alt=""><div><a href="Leather_Archer_Armor.php">弓兵皮甲</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm"><img class="gg" src="img/Bodkinarrow.jpg" alt=""><div><a href="Bodkin_Arrow.php">錐狀箭頭</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm"><img class="gg" src="img/Ironcasting.jpg" alt=""><div><a href="Iron_Casting.php">鑄造</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm "><img class="gg" src="img/Chainbardingarmor.jpg" alt=""><div><a href="Chain_Barding_Armor.php">騎兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>

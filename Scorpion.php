@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -57,7 +55,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、移動緩慢的單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、移動緩慢的單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -80,13 +78,13 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。
                 <br>
                 <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
                 <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Rocketry.php">火箭術</a>(+4)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion_Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定
                 <br>
                 <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Double_Crossbow.php">雙弩箭</a>:額外增加一個投射物。<a href="Khmer.php">高棉</a>限定</td>
             </tr>
@@ -415,7 +413,7 @@
               <td class="unit4">0.65</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="los.php">視野</a>
+              <td class="unit3">視野</a>
               </td>
               <td class="unit4">9</td>
             </tr>
@@ -450,5 +448,4 @@
       <?php include( "allunit.php"); ?>
       <?php include( "footn.php"); ?>
   </body>
-
 </html>

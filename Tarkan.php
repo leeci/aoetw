@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -57,7 +55,7 @@
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><a href="Archer_Units.php">弓兵</a>、<a href="Siege_Weapons.php">攻城器單位</a>、
                 <a
-                href="Light_Cavalry.php">輕騎兵</a>、<a href="bulding.php">建築物</a>。</td>
+                href="Light_Cavalry.php">輕騎兵</a>、<a href="Armor_class_building.php">建築物</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -73,7 +71,7 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)
+                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)
                 <br>
               </td>
             </tr>
@@ -98,7 +96,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -375,9 +373,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+12對<a href="Armor_class_stone_defense.php">石材建築類</a>
-                <br>+10對<a href="Armor_Class_Castle.php">城堡</a>
-                <br>+8/+10(精銳)對<a href="Armor_Class_Building.php">建築類</a>
-                <br>+8/+10(精銳)對<a href="Armor_Class_Wall_and_Gate.php">城牆和城門</a>
+                <br>+10對<a href="Armor_class_Castle.php">城堡</a>
+                <br>+8/+10(精銳)對<a href="Armor_class_building.php">建築類</a>
+                <br>+8/+10(精銳)對<a href="Armor_class_wall_and_gate.php">城牆和城門</a>
               </td>
             </tr>
             <tr>
@@ -385,7 +383,7 @@
               <td class="unit4">2.13</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">近防</a>
+              <td class="unit3">近防</a>
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -400,7 +398,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速</a>
               </td>
               <td class="unit4">1.35</td>
             </tr>
@@ -453,5 +451,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -96,7 +94,7 @@
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</p>
+                  <img src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</p>
               </td>
             </tr>
           </table>
@@ -248,5 +246,4 @@
     <?php include( "allhero.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

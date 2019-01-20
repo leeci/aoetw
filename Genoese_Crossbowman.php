@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -26,7 +24,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>熱那亞弩手是<a href="aof.php">失落的帝國</a>資料片中義大利的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的
+            <p>熱那亞弩手是<a href="aof.php">《世界帝國:失落的帝國》</a>資料片中義大利的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的
               <a
               href="Castle.php">城堡</a>中訓練。是個對騎兵有攻擊加成的弓兵。</p>
             <p>熱那亞弩手可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳熱那亞弩手。</div>
@@ -101,7 +99,7 @@
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</td>
+                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
@@ -431,5 +429,4 @@
       <?php include( "allunit.php"); ?>
       <?php include( "footn.php"); ?>
   </body>
-
 </html>

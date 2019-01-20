@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -39,7 +37,7 @@
                  <h4><a href="Feudal_Age.phpp"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Goldmining.jpg" alt=""><a href="Gold Mining.php">採金技術</a>
+                    <img class="gg" src="img/Goldmining.jpg" alt=""><a href="Gold_Mining.php">採金技術</a>
                   </li>
                   <li>
                     <img class="gg" src="img/Stonemining.jpg" alt=""><a href="Stone_Mining.php">採石技術</a>
@@ -255,8 +253,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="Armor_class_building.php">建築</a>
+                <br> <a href="Armor_class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -301,5 +299,4 @@
     <?php include( "allbuilding.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -46,7 +44,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="BersBers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速象轎的研究時間(快25%)。</li>
+              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速象轎的研究時間(快25%)。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
@@ -151,5 +149,4 @@
     <?php include( "alltech.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>
