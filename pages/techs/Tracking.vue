@@ -93,7 +93,7 @@
             <td class="tta2">5</td>
             <td class="tta3">7</td>
             <td class="tta4">+96%</td>
-          </tr>
+          </tr>tes
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/SpearmanIcon.jpg" /><nuxt-link
