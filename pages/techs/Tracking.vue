@@ -152,7 +152,7 @@
           <tr>
             <td class="tta1">
               <img
-                class="gg"
+                class="gg"asdf
                 src="~assets/EliteEagleWarriorIcon.jpg"
               /><nuxt-link to="/units/Elite_Eagle_Warrior"
                 >精銳鷹勇士</nuxt-link
